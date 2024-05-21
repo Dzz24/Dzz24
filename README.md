@@ -3,6 +3,7 @@
 <!--
 **Dzz24/Dzz24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+https://visitcount.itsvg.in/api?id=Dzz24&icon=1&color=6)](https://visitcount.itsvg.in)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
