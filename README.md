@@ -1,7 +1,11 @@
 [![](https://visitcount.itsvg.in/api?id=Dzz24&icon=1&color=6)](https://visitcount.itsvg.in)
 <h2 align="left">Hi 👋! My name is Dzikri Fakhry</h2>
 <h3 align="center">🚀 About Me</h3>
-<p>a Information System student at Andalas University,that currently studying at machine learning subject .Right now,   </p>
+<p>a forth semester student that currently majoring in Information systems. have passion in programming, especially machine learning
+and web develop. kinda familiar with some tech around machine learning such as callback, neural network, etc .I bring experience
+under 1 year experience in machine learning and hopefully, i can explore some more about machine learning and mastereing it in no time. My journey has been defined by a relentless pursuit of innovation, transforming raw data into
+actionable insights and intelligent solutions that propel businesses forward.
+ </p>
 
 ###
 <h2>Tech that i can use</h2>
