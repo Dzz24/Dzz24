@@ -1,8 +1,23 @@
 [![](https://visitcount.itsvg.in/api?id=Dzz24&icon=1&color=6)](https://visitcount.itsvg.in)
-<h2 align="left">Hi 👋! My name is Dzikri Fakhry as a Machine Learning Developer</h2>
+<h2 align="left">Hi 👋! My name is Dzikri Fakhry</h2>
 
 ###
-
+<svg
+  width="120"
+  height="120"
+  viewBox="0 0 120 120"
+  xmlns="http://www.w3.org/2000/svg">
+  <polygon points="60,30 90,90 30,90">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 60 70"
+      to="360 60 70"
+      dur="10s"
+      repeatCount="indefinite" />
+  </polygon>
+</svg>
 <div align="center">
     <h2>🚀 About Me</h2>
     <h3></h3>  
