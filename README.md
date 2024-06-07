@@ -1,56 +1,53 @@
 [![](https://visitcount.itsvg.in/api?id=Dzz24&icon=1&color=6)](https://visitcount.itsvg.in)
 <h2 align="left">Hi 👋! My name is Dzikri Fakhry</h2>
-<style>
-    .container {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 100px;
-    }
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes hi  {
+            0% { transform: rotate( 0.0deg) }
+           10% { transform: rotate(14.0deg) }
+           20% { transform: rotate(-8.0deg) }
+           30% { transform: rotate(14.0deg) }
+           40% { transform: rotate(-4.0deg) }
+           50% { transform: rotate(10.0deg) }
+           60% { transform: rotate( 0.0deg) }
+          100% { transform: rotate( 0.0deg) }
+        }
 
-    .spacer {
-      width: 20px;
-    }
+        .container {
+          background-color: black;
 
-    .fixed-text {
-      font-size: 43px;
-    }
+          width: 100%;
+          height: 300px;
 
-    .rotating-text {
-      font-size: 40px;
-      font-family: 'Horizon', Arial, sans-serif;
-      display: inline-block;
-      overflow: hidden;
-      height: 50px; /* Adjust height as needed */
-    }
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: white;
 
-    .rotating-text span {
-      display: inline-block;
-      animation: rotateText 9s infinite linear;
-    }
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
 
-    @keyframes rotateText {
-      0%, 10% {
-        transform: translateY(0);
-      }
-      33%, 43% {
-        transform: translateY(-50px); /* Adjust height as needed */
-      }
-      66%, 76% {
-        transform: translateY(-100px); /* Adjust height as needed */
-      }
-    }
-  </style>
+        .hi {
+          animation: hi 1.5s linear -0.5s infinite;
+          display: inline-block;
+          transform-origin: 70% 70%;
+        }
 
-  <div class="container">
-    <div class="spacer"></div>
-    <div class="fixed-text">Be</div>
-    <div class="spacer"></div>
-    <div class="rotating-text">
-      <span>AWESOME<br>OPTIMISTIC<br>DIFFERENT</span>
+        @media (prefers-reduced-motion) {
+          .hi {
+            animation: none;
+          }
+        }
+      </style>
+
+      <div class="container">
+        <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
+      </div>
     </div>
-  </div>
-
+  </foreignObject>
+</svg>
 ###
 <div align="center">
     <h2>🚀 About Me</h2>
