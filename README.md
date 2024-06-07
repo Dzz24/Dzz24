@@ -3,15 +3,6 @@
 <h3 align="center">🚀 About Me</h3>
 <p>a Information System student at Andalas University,that currently studying at machine learning subject </p>
 
-<h2>My Stats</h2>
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dzz24&theme=github_dark" alt="Dzz24's GitHub Stats"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dzz24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dzz24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 <h2>Tech that i can use</h2>
 <div align="left">
@@ -36,6 +27,15 @@
 </div>
 
 ###
+
+<h2>My Stats</h2>
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dzz24&theme=github_dark" alt="Dzz24's GitHub Stats"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dzz24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dzz24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <h2>Contact me on :</h2>
 
