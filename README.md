@@ -1,5 +1,55 @@
 [![](https://visitcount.itsvg.in/api?id=Dzz24&icon=1&color=6)](https://visitcount.itsvg.in)
 <h2 align="left">Hi 👋! My name is Dzikri Fakhry</h2>
+<style>
+    .container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100px;
+    }
+
+    .spacer {
+      width: 20px;
+    }
+
+    .fixed-text {
+      font-size: 43px;
+    }
+
+    .rotating-text {
+      font-size: 40px;
+      font-family: 'Horizon', Arial, sans-serif;
+      display: inline-block;
+      overflow: hidden;
+      height: 50px; /* Adjust height as needed */
+    }
+
+    .rotating-text span {
+      display: inline-block;
+      animation: rotateText 9s infinite linear;
+    }
+
+    @keyframes rotateText {
+      0%, 10% {
+        transform: translateY(0);
+      }
+      33%, 43% {
+        transform: translateY(-50px); /* Adjust height as needed */
+      }
+      66%, 76% {
+        transform: translateY(-100px); /* Adjust height as needed */
+      }
+    }
+  </style>
+
+  <div class="container">
+    <div class="spacer"></div>
+    <div class="fixed-text">Be</div>
+    <div class="spacer"></div>
+    <div class="rotating-text">
+      <span>AWESOME<br>OPTIMISTIC<br>DIFFERENT</span>
+    </div>
+  </div>
 
 ###
 <div align="center">
