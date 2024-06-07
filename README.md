@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YourGitHub]&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dzz24&theme=github_dark" alt="Dzikri's GitHub Stats"/>
 </div>
 
 ###
