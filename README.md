@@ -1,6 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Dzz24&icon=1&color=6)](https://visitcount.itsvg.in)
 <h2 align="left">Hi 👋! My name is Dzikri Fakhry</h2>
 <h3 align="center">🚀 About Me</h3>
+<p>a Information System student at Andalas University,that currently studying at machine learning subject </p>
 
 <h2>My Stats</h2>
 <div align="center">
