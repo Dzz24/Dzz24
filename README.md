@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=Dzz24&icon=1&color=6)](https://visitcount.itsvg.in)
 <h2 align="left">Hi 👋! My name is Dzikri Fakhry</h2>
-<h3>🚀 About Me</h3>
+<h3 align="center">🚀 About Me</h3>
 
 <h2>My Stats</h2>
 <div align="center">
