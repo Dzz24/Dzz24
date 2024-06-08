@@ -44,7 +44,7 @@ actionable insights and intelligent solutions that propel businesses forward.
 <h2>Contact me on :</h2>
 
 <div align="left">
-<a href="https://github.com/Dzz24/Dzz24">
+<a href="https://github.com/Dzz24">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </a>
 <a href="https://discord.com/users/718001768696381474">
