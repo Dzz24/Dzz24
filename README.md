@@ -4,7 +4,7 @@
 <p>a forth semester student that currently majoring in Information systems. have passion in programming, especially machine learning
 and web develop. kinda familiar with some tech around machine learning such as callback, neural network, etc .I bring experience
 under 1 year experience in machine learning and hopefully, i can explore some more about this subject and mastering it in no time. My journey has been defined by a relentless pursuit of innovation, transforming raw data into
-actionable insights and intelligent solutions that propel businesses forward.
+actionable insights and intelligent solutions that propel businesses forward. 
  </p>
 
 ###
